@@ -1,0 +1,6 @@
+@inproceedings{yang2017mgfcn,
+  title={End-to-End Disparity Estimation with Multi-granularity Fully Convolutional Network},
+  author={Yang, Guorun and Deng, Zhidong},
+  booktitle={International Conference on Neural Information Processing (ICONIP)},
+  year={2017}
+}

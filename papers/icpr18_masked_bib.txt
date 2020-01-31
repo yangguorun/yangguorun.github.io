@@ -1,0 +1,6 @@
+@inproceedings{yang2018masked,
+  title={Masked Label Learning for Optical Flow Regression},
+  author={Yang, Guorun and Deng, Zhidong and Wang, Shiyao and Li, Zeping},
+  booktitle={International Conference on Pattern Recognition (ICPR)},
+  year={2018}
+}

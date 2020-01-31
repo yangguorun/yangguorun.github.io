@@ -1,6 +1,6 @@
-@inproceedings{yang2018segstereo,
-  title 	= {{SegStereo}: Exploiting Semantic Information for Disparity Estimation},
-  author 	= {Yang, Guorun and Zhao, Hengshuang and Shi, Jianping and Deng, Zhidong and Jia, Jiaya},
-  booktitle = {ECCV},
-  year 		= {2018}
+@inproceedings{yang2018SegStereo,
+  author={Yang, Guorun and Zhao, Hengshuang andShi, Jianping and Deng, Zhidong and Jia, Jiaya},
+  title={SegStereo: Exploiting Semantic Information for Disparity Estimation},
+  booktitle={European Conference on Computer Vision (ECCV)},
+  year={2018}
 }
